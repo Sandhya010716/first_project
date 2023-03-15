@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Style the Font </title>
+    <style>
+    	.welcome.text {
+            font-family:Futura,Helvetica,Arial;
+            font-size:60px;
+            text-transform : uppercase;
+            text-decoration: underline;
+            color:#8001ff;
+    	}
+    </style>
+</head>
+<body>
+    <h1 class="welcome-text">welcome</h1>
+</body>
+</html>
